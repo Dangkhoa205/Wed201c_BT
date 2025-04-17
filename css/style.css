@@ -30,23 +30,57 @@
 display: flex;
 }
 .Body_4{
+    border-radius: 10px;
     background-color: antiquewhite;
     width: 30%;
     padding-bottom: 10%;
-}
-.Body_test{
-    display: block;
-    background-color: blue;
-    width: 10%;
-    margin-bottom: -2%;
+    border: 1px solid black;
     
 }
-.Table{
+
+.title-Of-Body{
+    display: flex;
+
+}
+.title-body{
+    margin-left: 25%;
+    margin-top: 1%;
+    background-color: orange;
+    border-radius: 10px;
+}
+.Body_test{
+    border-radius: 10px;
+    background-color: blue;
+    width: 10%;
+   
+   margin-top: 1%;
     text-align: center;
 }
+
+.Table{
+    text-align: center;
+    
+}
+
 .Body_5{
     width: 48%;
     margin-left: 5%;
-    margin-top: -2%;
     background-color: cadetblue;
+    border-radius: 10px;
+    border: 1px solid black;
+}
+.Body_5-info{
+    text-align: center;
+    
+}
+.Body_5-info input{
+    padding-right: 45%;
+    border-radius: 5px;
+    margin-top: 3%;
+    padding-bottom: 2%;   
+    font-size: 17px;
+}
+.Body_5-radio{
+
+
 }
